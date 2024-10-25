@@ -1,3 +1,5 @@
+#GhirasProject
+
 Plant Classification Application
 Overview
 This project focuses on building a deep learning-based application to classify various plants found in Saudi Arabia. By leveraging convolutional neural networks (CNNs) and data augmentation techniques, the app can identify over 30 plant categories with high accuracy. Users can upload a plant image, and the application will predict the plant's name, provide additional details, and map its common location.
