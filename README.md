@@ -80,5 +80,3 @@ Project contributors :
 abdulaziz althobaiti
 Khalid alsoqairi
 maram albahili
-1- ش
-1- ِلايع
