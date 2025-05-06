@@ -73,3 +73,12 @@ Multi-language Support: Add Arabic and English descriptions for ease of use.
 Improved User Interface: Create a more user-friendly app for seamless plant classification.
 
 Expanded Dataset: Include more plant species to increase the app's utility.
+
+
+
+Project contributors : 
+abdulaziz althobaiti
+Khalid alsoqairi
+maram albahili
+1- ش
+1- ِلايعمش
